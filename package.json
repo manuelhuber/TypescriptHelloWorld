@@ -1,0 +1,31 @@
+{
+  "name": "typescripthelloworld",
+  "version": "1.0.0",
+  "description": "Hello WOrld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-istanbul": "^0.6.1",
+    "grunt-jasmine-runner": "^0.6.0",
+    "grunt-karma": "^0.12.1",
+    "grunt-open": "^0.2.3",
+    "grunt-typescript": "^0.7.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.5.2",
+    "karma-jasmine": "^0.3.6",
+    "remap-istanbul": "^0.3.0",
+    "typescript": "^1.6.2"
+  },
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
