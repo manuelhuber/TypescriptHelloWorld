@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+*.iml
+
+# node etc
+node_modules
+dist
+
+# Maven
+target
