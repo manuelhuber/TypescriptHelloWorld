@@ -1,4 +1,4 @@
-///<reference path="HelloWorld.ts"/>
+
 /**
  * Created by Manuel on 23.09.2015.
  */

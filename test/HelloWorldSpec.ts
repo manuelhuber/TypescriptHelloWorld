@@ -1,5 +1,4 @@
 /// <reference path ="..\typings\jasmine\jasmine.d.ts" />
-/// <reference path ="..\src\HelloWorld.ts"/>
 /**
  * Created by Manuel on 23.09.2015.
  */
