@@ -2,9 +2,9 @@
 .idea/
 *.iml
 
-# node etc
-node_modules
-dist
+# Compiler output (.js and .js.map)
+js
 
-# Maven
-target
+# Output folders for 
+karmaCoverage
+remapIstanbul
